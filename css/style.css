@@ -1,0 +1,104 @@
+*{
+    margin: 10px;
+    padding: 0;
+}
+/*
+.principal{
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 30px;
+    border: thick solid red;
+    width: 600px;
+    height: 600px;
+    background-color: yellow;
+}
+.caja1{
+    margin: auto;
+    margin-top: 30px; 
+    width: 560px;
+    height: 100px;
+    background-color: aqua;
+}
+.caja2{
+    width: 560px;
+    height: 100px;
+    background-color: darksalmon;
+}
+.caja3{
+    float: left;
+    border-radius: 100px;
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+.caja4{
+    float: right;
+    width: 200px;
+    height: 200px;
+    background-color: deeppink;
+}
+.caja1_1{
+    width: 200px;
+    height: 50px;
+    background-color: coral;
+}
+*/
+.prin2{
+    margin-top: 10px;
+    margin: auto;
+    border: thick solid blue;
+    width: 600px;
+    height: 600px;
+}
+.cab{
+    margin: auto;
+    width: 150px;
+    height: 150px;
+    background-color: aqua;
+    border: thick solid black;
+    border-radius: 100%;
+}
+.ojoi{
+    margin: 30px 35px;
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    border-radius: 100%;
+}
+.ojod{
+    margin: -60px 90px;
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    border-radius: 100%;
+}
+.manos{
+    margin: 0px 130px;
+    width: 350px;
+    height: 25px;
+    background-color: black;
+    border-radius: 50%;
+}
+.boca{
+    margin: 80px 27px;
+    width: 100px;
+    height: 30px;
+    background-color: black;
+    border-radius: 50%;
+}
+.cuerpo{
+    margin: -40px 197px;
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    border: thick solid black;
+    border-radius: 100%;
+}
+.final{
+    margin: -55px 167px;
+    width: 275px;
+    height: 275px;
+    background-color: aqua;
+    border: thick solid black;
+    border-radius: 100%;
+}
